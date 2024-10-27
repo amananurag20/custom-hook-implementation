@@ -101,5 +101,5 @@ This project includes a dark mode feature. Toggle it using the button in the Set
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/princesinghrajput">@prince-singh-rajput</a>
+  Made with ❤️ by <a href="https://github.com/amananurag20/custom-hook-implementation">@amananurag</a>
 </p>
